@@ -1,7 +1,7 @@
 ---
 title: "Drones in Public: distancing and communication with general users"
 collection: talks
-type: "Tutorial"
+type: "Invited Talk"
 permalink: /talks/2018-Sept-28-talk-5
 venue: "University of Washington Robotics Colloquium"
 date: 2018-09-28
