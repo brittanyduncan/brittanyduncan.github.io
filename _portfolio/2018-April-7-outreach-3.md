@@ -3,6 +3,8 @@ title: "Human-Robot Interaction: How to make robots friendlier and helpful"
 collection: outreach
 permalink: /outreach/2018-April-7-outreach-3
 venue: "University of Nebraska-Lincoln, Women in Science Workshop"
+label: "K-12 outreach"
+location: "Lincoln, NE, USA"
 date: 2018-04-07
 ---
 
