@@ -14,7 +14,7 @@ description              : &description "Brittany Duncan's Website"
 url                      : https://brittanyduncan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "brittanyduncan/brittanyduncan.github.io"
-teaser                   :  "DuncanSquare_small.png"# filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Brittany Duncan, Ph.D."
-  avatar           : "profile.png"
+  avatar           : "DuncanSquare_small.png"
   bio              : "Assistant Professor of Computer Science and Engineering at University of Nebraska-Lincoln and Co-Director of the NIMBUS Lab"
   location         : "Lincoln, NE"
   employer         : "University of Nebraska-Lincoln"
