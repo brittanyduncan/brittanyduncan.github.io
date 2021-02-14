@@ -2,7 +2,7 @@
 title: "Drones in Public: distancing and communication with general users"
 collection: talks
 type: "Tutorial"
-permalink: /talks/2018-09-28-talk-5
+permalink: /talks/2018-Sept-28-talk-5
 venue: "University of Washington Robotics Colloquium"
 date: 2018-09-28
 location: "Seattle, WA, USA"
