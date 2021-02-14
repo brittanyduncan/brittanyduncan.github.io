@@ -1,5 +1,5 @@
 ---
-title: "Human-Computer Interaction"
+title: "Human-Computer Interaction, Spring 2017"
 collection: teaching
 type: "Undergraduate Class"
 permalink: /teaching/2017-spring-teaching-4
