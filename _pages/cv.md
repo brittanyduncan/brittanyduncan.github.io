@@ -55,7 +55,7 @@ Teaching
   
 Outreach
 ======
-  <ul>{% for post in site.outreach reversed %}
+  <ul>{% for post in site.portfolio reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>  
   
