@@ -3,6 +3,8 @@ title: "4 week course: How Does Artificial Intelligence Affect My Life"
 collection: outreach
 permalink: /outreach/2020-Jan-28-outreach-7
 venue: "University of Nebraska-Lincoln, Osher Lifelong Learning Institute"
+label: "Senior Adults course"
+location: "Lincoln, NE, USA"
 date: 2020-01-28
 ---
 
