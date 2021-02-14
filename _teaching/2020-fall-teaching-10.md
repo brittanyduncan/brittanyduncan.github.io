@@ -1,5 +1,5 @@
 ---
-title: "Human-Computer Interaction"
+title: "Human-Computer Interaction, Fall 2020"
 collection: teaching
 type: "Undergraduate Class"
 permalink: /teaching/2020-fall-teaching-10
