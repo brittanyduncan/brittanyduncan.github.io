@@ -2,7 +2,7 @@
 title: "Human-Robot Interaction, Spring 2021"
 collection: teaching
 type: "Undergraduate and Graduate course"
-permalink: /teaching/2020-spring-teaching-11
+permalink: /teaching/2021-spring-teaching-11
 venue: "University of Nebraska-Lincoln, Department of Computer Science and Engineering"
 date: 2021-01-15
 location: "Lincoln, NE, USA"
