@@ -53,6 +53,12 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+Outreach
+======
+  <ul>{% for post in site.outreach reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>  
+  
 Service accomplishments
 ======
 * Journal Associate Editorships
