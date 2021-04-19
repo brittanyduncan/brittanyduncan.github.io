@@ -3,7 +3,7 @@ title: "Science Cafe: Human-Drone Interaction"
 excerpt: "Outreach event for young adults to discuss human-drone interactions."
 date: 2018-08-28
 collection: outreach
-label: "Young Adult Talk"
+type: "Young Adult Talk"
 venue: "University of Nebraska State Museum and the Happy Raven Bar"
 location: "Lincoln, NE, USA"
 permalink: /outreach/2018-Aug-28-outreach-4
