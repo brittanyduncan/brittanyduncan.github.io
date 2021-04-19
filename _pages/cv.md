@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D in Computer Science, Texas A&M University, 2015
-* B.S. in Computer Science, Georgia Institute of Technology, 2005
+* B.S. in Computer Science, Georgia Institute of Technology, 2009
 
 Employment history
 ======
