@@ -3,7 +3,7 @@ title: "Privacy and AI in Everyday Life and Human-Drone Interaction"
 collection: outreach
 permalink: /outreach/2019-Feb-26-outreach-6
 venue: "University of Nebraska-Lincoln, E.N. Thompson Pre-Talk, Invited Speaker"
-label: "All Ages Talk"
+type: "All Ages Talk"
 location: "Lincoln, NE, USA"
 date: 2019-02-26
 ---
