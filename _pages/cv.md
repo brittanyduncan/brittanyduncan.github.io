@@ -16,12 +16,16 @@ Education
 
 Employment history
 ======
-* August 2015 -- current: Assistant Professor
-  * Computer Science and Engineering
+* August 2021 -- present: Associate Professor
+  * School of Computing
   * University of Nebraska-Lincoln
 
 * August 2015 -- current: Co-Director
   * Nebraska Intelligent MoBile Unmanned Systems (NIMBUS) Lab
+  * University of Nebraska-Lincoln
+
+* August 2015 -- August 2021: Assistant Professor
+  * Computer Science and Engineering
   * University of Nebraska-Lincoln
  
 Research patents and awards
@@ -97,7 +101,9 @@ Service accomplishments
 Leadership Positions on University Wide Committees
 ========
   * Association of Women in Science Institutional Steering Committee, January 2021 - January 2022, chair
+
 Membership Positions on University Wide Committees
+========
   * UNL Representative Big Ten Academic Alliance Graduate Deans Meeting on NASEM Science of Mentoring Report, February 2020
   * Association of Women in Science Institutional Steering Committee, since 2018, member
   * UNL UAS Policy Working Group, since 2016, member
