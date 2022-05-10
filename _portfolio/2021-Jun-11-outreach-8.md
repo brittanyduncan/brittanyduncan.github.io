@@ -3,7 +3,7 @@ title: "Girls, Inc. High School Coding Camp"
 collection: outreach
 permalink: /outreach/2021-Jun-11-outreach-8
 venue: "University of Nebraska-Lincoln"
-type: "High School Coding Camp"
+type: "K-12 Outreach"
 location: "Lincoln, NE, USA"
 date: 2021-06-11
 ---
