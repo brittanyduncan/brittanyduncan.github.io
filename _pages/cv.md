@@ -16,7 +16,11 @@ Education
 
 Employment history
 ======
-* August 2021 -- present: Associate Professor
+* July 2022 -- present: Ross McCollum Associate Professor
+  * School of Computing
+  * University of Nebraska-Lincoln
+  
+* August 2021 -- July 2022: Associate Professor
   * School of Computing
   * University of Nebraska-Lincoln
 
