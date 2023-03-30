@@ -16,12 +16,16 @@ Education
 
 Employment history
 ======
-* August 2021 -- present: Associate Professor
+* July 2022 -- present: Ross McCollum Associate Professor
   * School of Computing
   * University of Nebraska-Lincoln
 
 * August 2015 -- current: Co-Director
   * Nebraska Intelligent MoBile Unmanned Systems (NIMBUS) Lab
+  * University of Nebraska-Lincoln
+
+* August 2021 -- July 2022: Associate Professor
+  * School of Computing
   * University of Nebraska-Lincoln
 
 * August 2015 -- August 2021: Assistant Professor
@@ -68,9 +72,9 @@ Service accomplishments
 * Journal Associate Editorships
   * IEEE Robotics and Automation Letters (RA-L), Aerial and Field Robotics, since 2020
 * Conference Associate Editorships
-  * IEEE International Conference on Robotics and Automation, Workshops, since 2020
-  * International Conference on Ubiquitous Robots, since 2020
-  * IEEE RAS/EMBS International Conference for Biomedical Robotics and Biomechatronics, since 2020
+  * IEEE International Conference on Robotics and Automation, Workshops, 2020
+  * International Conference on Ubiquitous Robots, 2020
+  * IEEE RAS/EMBS International Conference for Biomedical Robotics and Biomechatronics, 2020
 * Journal Reviewer
   * ACM Transactions on Human-Robot Interaction, since 2018 
   * International Journal of Social Robotics, since 2017
@@ -86,9 +90,11 @@ Service accomplishments
   * ACM/IEEE International Conference on Human-Robot Interaction, since 2015
   * IEEE International Symposium on Safety, Security, and Rescue Robotics, since 2012
 * Leadership Positions in International and National Organizations
-  * Co-Chair, Workshops and Tutorials, Organizing Committee Member,2021 ACM/IEEE International Conference on Human-Robot Interaction, since 2020
-  * NCWIT Regional Affiliate, since 2018
-  * Technical Program Committee Member, ACM/IEEE International Conference on Human-Robot Interaction, 2017 - 2018, 2019 - 2020
+  * Finance Chair, IEEE International Conference on Intelligent Robots and Systems (IROS), 2022 – 2023  
+  * Senior Program Committee Member,IEEE International Conference on Robotics and Automation, 2022
+  * Co-Chair, Workshops and Tutorials, Organizing Committee Member,2021 ACM/IEEE International Conference on Human-Robot Interaction, 2020 - 2021
+  * NCWIT Regional Affiliate, 2018 - 2022
+  * Technical Program Committee Member, ACM/IEEE International Conference on Human-Robot Interaction, 2017 - 2018, 2019 - 2020, 2021 - 2022
   * Co-Chair, Registration and Organizing Committee Member, 2020 ACM/IEEE International Conference on Human-Robot Interaction, 2019 - 2020
   * Co-Chair,Late-Breaking Reports and Organizing Committee Member, 2019 ACM/IEEE International Conference on Human-Robot Interaction, 2017 - 2019
   * Technical Program Committee, ACM/IEEE International Conferenceon Human-Robot Interaction Pioneers Workshop, 2015 - 2018
@@ -100,10 +106,13 @@ Service accomplishments
 
 Leadership Positions on University Wide Committees
 ========
-  * Association of Women in Science Institutional Steering Committee, January 2021 - January 2022, chair
+  * Association of Women in Science Institutional Steering Committee, January 2021 - January 2023, chair
 
 Membership Positions on University Wide Committees
 ========
+  * UNL APLU Aspire Initiative, Recruiting Diverse Faculty Subcommittee, since 2021, member
+  * UNL Grand Challenges Steering Committee, since 2021, member
+  * Recruitment Advisory Committee for Associate Vice Chancellor and Dean of Graduate Education, 2021, member
   * UNL Representative Big Ten Academic Alliance Graduate Deans Meeting on NASEM Science of Mentoring Report, February 2020
   * Association of Women in Science Institutional Steering Committee, since 2018, member
   * UNL UAS Policy Working Group, since 2016, member
@@ -113,17 +122,19 @@ Membership Positions on College Wide Committees
 ========
   * Council on Diversity, Equity, and Inclusion, since 2020, faculty fellow 2. UNL Robotics Engineering Minor Committee, since 2015, member
 Unit Service
+  * UNL College of Engineering Curriculum and Academic Standards Committee, 2021, member
 
 Leadership Positions on Unit Committees
 =====
-  * Faculty Search Committee, 2020 - present, co-chair
   * Diversity Committee, 2017 - present, co-chair
-  * Computer Science Graduate Committee, 2019 - present, chair
+  * Faculty Search Committee, 2020 - 2021, co-chair
+  * Computer Science Graduate Committee, 2019 - 2020, chair
 
 Membership Positions on Unit Committees
 ======
+  * Bylaws Committee, 2021 - 2022, member
+  * Curriculum Committee, 2018 - 2019, 2021 - 2022, member
   * Faculty Search Committee, 2016 - 2018, 2019 - 2020, member 
   * Computer Science Graduate Committee, 2016 - 2019, member 
-  * Curriculum Committee, 2018 - 2019, member
   * Diversity Committee, 2015 - 2016, member
   * Graduate Admissions Committee, 2015 - 2016, member
