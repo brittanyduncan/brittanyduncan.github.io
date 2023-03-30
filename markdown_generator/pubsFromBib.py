@@ -35,7 +35,7 @@ publist = {
         
     },
     "journal":{
-        "file": "pubs.bib",
+        "file": "proceedings.bib",
         "venuekey" : "journal",
         "venue-pretext" : "",
         "collection" : {"name":"publications",
@@ -100,6 +100,9 @@ for pubsource in publist:
 
             #citation authors - todo - add highlighting for primary author?
             for author in bibdata.entries[bib_id].persons["author"]:
+                if "$" in author.last_names[0]:
+            	    end = author.last_names[0].index("$")
+            	    author.last_names[0] = author.last_names[0][:end]
                 citation = citation+" "+author.first_names[0]+" "+author.last_names[0]+", "
 
             #citation title
