@@ -15,5 +15,5 @@ My research is focused at the intersection of Artificial Intelligence, Human-Rob
 
 {% include youtubePlayer.html id=page.youtubeId %}
 
-Brittany Duncan has disclosed a significant financial interest in Drone Amplified, Inc. In accordance with its Conflict of Interest policy, the University of Nebraska-Lincoln’s Conflict of Interest in Research Committee has determined that this must be disclosed.
+Brittany Duncan has disclosed a significant financial interest in Drone Amplified, Inc., Marble Technologies, and BA Drones, LLC. In accordance with its Conflict of Interest policy, the University of Nebraska-Lincoln’s Conflict of Interest in Research Committee has determined that this must be disclosed.
 
